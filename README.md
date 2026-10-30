@@ -1,4 +1,4 @@
-# Aadil Mod Menu
+# Aadil Native Menu
 
 **A native Android Mod Menu template by Aadil Mods.**
 
