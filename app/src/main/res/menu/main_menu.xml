@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/discord"
+        android:title="Discord"
+        android:showAsAction="never" />
+
+    <item
+        android:id="@+id/telegram"
+        android:title="Telegram"
+        android:showAsAction="never" />
+
+    <item
+        android:id="@+id/instagram"
+        android:title="Instagram"
+        android:showAsAction="never" />
+
+    <item
+        android:id="@+id/website"
+        android:title="Website"
+        android:showAsAction="never" />
+
+    <item
+        android:id="@+id/github"
+        android:title="GitHub"
+        android:showAsAction="never" />
+
+</menu>
+
